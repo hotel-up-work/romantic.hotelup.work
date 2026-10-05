@@ -1,6 +1,6 @@
 # Romantic Guest House
 
-Live site: https://romantic.webart.work
+Live site: https://romantic.hotelup.work
 
 ## About
 Romantic Guest House — гостьовий дім (`guest_house`) у Кам’янці-Подільському, вул. Руська, 3. Сторінка продає STAY + RELAX + OUTSIDE за формулою STAY · RELAX · TOGETHER; сценарій «Вихідні для двох» (не пакет), сімейні номери показано окремо, щоб бренд не був couples-only.
